@@ -1,0 +1,15 @@
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/bin/Debug/net6.0/task1
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/bin/Debug/net6.0/task1.deps.json
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/bin/Debug/net6.0/task1.dll
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/bin/Debug/net6.0/task1.pdb
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.dll
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.pdb
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/yana/Desktop/code/seminars/smn8/seminar8/task1/obj/Debug/net6.0/ref/task1.dll
